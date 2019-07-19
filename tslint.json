@@ -1,0 +1,6 @@
+{
+    "globals": {
+        "require": true
+    },
+    "whitespace": [false, "check-branch", "check-operator", "check-typecast"]
+}
